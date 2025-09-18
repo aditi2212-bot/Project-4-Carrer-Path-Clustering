@@ -69,8 +69,3 @@ The project also uses the **Apriori algorithm** to discover frequent skill assoc
 
 ---
 
-##  How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/career-path-clustering.git
-   cd career-path-clustering
