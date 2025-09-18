@@ -1,3 +1,8 @@
+##  Run in Google Colab
+You can directly open and run this project in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1htsE20-UVeISFtEMywUSIT7r3c_eoRk6?usp=sharing)
+
 #  Career Path Clustering using NLP & Machine Learning
 
 ##  Project Overview
